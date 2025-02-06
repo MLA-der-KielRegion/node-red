@@ -23,15 +23,15 @@ Durch die intuitive Bedienung, große Community und flexible Einsatzmöglichkeit
 
 ### Einsatz im Projekt
 
-In unserem Projekt setzen wir Node-RED gezielt zur Integration, Transformation und Visualisierung von Daten ein. Dabei spielt die Plattform eine zentrale Rolle, um Drittanbieter-APIs anzubinden, Datenformate umzuwandeln und kontextreiche Informationen bereitzustellen.
+diesem Projekt setzen wird Node-RED gezielt zur Integration, Transformation und Visualisierung von Daten ein. Dabei spielt die Plattform eine zentrale Rolle, um Drittanbieter-APIs anzubinden, Datenformate umzuwandeln und kontextreiche Informationen bereitzustellen.
 
 #### 🔗 Datenintegration & Transformation
 
-Node-RED dient als Schnittstelle zu verschiedenen proprietären APIs, deren Daten wir in NGSI-LD-konforme Datenmodelle überführen. Zusätzlich reichern wir die Informationen mit relevantem Kontext an, bevor sie in die MLA-Plattform eingespeist werden.
+Node-RED dient als Schnittstelle zu verschiedenen proprietären APIs, deren Daten in NGSI-LD-konforme Datenmodelle überführt werden. Zusätzlich wird die Informationen mit relevantem Kontext angreicher, bevor sie in die MLA-Plattform eingespeist werden.
 
 #### 🌍 Visualisierung mit World-Map
 
-Zur besseren Übersicht nutzen wir das World-Map-Addon, um die transformierten Daten visuell darzustellen. Diese interaktive Kartenansicht bietet eine schnelle Orientierung und ermöglicht es, relevante Informationen direkt auf der Plattform zu visualisieren.
+Zur besseren Übersicht wird das World-Map-Addon, um die transformierten Daten visuell darzustellen. Diese interaktive Kartenansicht bietet eine schnelle Orientierung und ermöglicht es, relevante Informationen direkt auf der Plattform zu visualisieren.
 
 #### ⚠️ Automatisierte Grenzwertsteuerung & Alarmierung
 
