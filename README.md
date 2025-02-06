@@ -39,23 +39,10 @@ Neben der reinen Datenverarbeitung übernimmt Node-RED auch die Überwachung von
 
 Dank der flexiblen Architektur von Node-RED ist es möglich, Datenintegration, Echtzeit-Visualisierung und Regelsteuerungen in einer effizienten und erweiterbaren Umgebung zu vereinen.
 
-
-## Voraussetzungen
-
-* Kubernetes 1.23+
-* Helm 3.8.0+
-
-### Helm Install 
-
-## Installation
-
-TBD
-
-## Parameter
-Die wichtigen Parameter werden im values.yaml konfiguriert.
-
-
-## Enviroment Variablen
+## Build Docker Image
+```bash
+docker build -t nrld20:latest .
+```
 
 ## License
 
